@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Umair baig</h1>
 <h3 align="center">I'm a frontend developer with a passion for creating seamless user experiences. Currently, I’m expanding my skills by diving into Next.js, aiming to build faster and more scalable web applications. Alongside web development, I also enjoy working with Blender for 3D modeling and design projects.</h3>
 
+<img align="right" alt="coding" with="400" src="![image](https://github.com/user-attachments/assets/e4fd8400-57a3-40a3-a4c2-7edd321a4d58)
+">
+
 - 🔭 I’m currently working on **Hackathon website**
 
 - 🌱 I’m currently learning **Next.js React.js**
