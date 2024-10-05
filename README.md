@@ -1,5 +1,5 @@
 ![logo](https://github.com/Umair567/Umair567/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(3).png)
-<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Wajeeha Baig</h1>
+<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Umair Baig</h1>
 
 <h3 align="center">I'm a Frontend developer with a passion for creating seamless user experiences. Currently, I’m expanding my skills by diving into Next.js, aiming to build faster and more scalable web applications. Alongside web development, I also enjoy working with Blender for 3D modeling and design projects.</h3>
 
