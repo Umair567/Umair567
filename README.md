@@ -1,7 +1,6 @@
 ![logo](https://github.com/Umair567/Umair567/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(3).png)
+![logo](https://github.com/Umair567/Umair567/blob/main/White%20Simple%20Nature%20Photo%20Motivational%20Quote%20Facebook%20Cover%20(1).mp4)
 
-<img src="https://text.media.giphy.com/v1/media/giphy.gif
-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lbWUiLCJ0ZXh0IjoiSSUyMGFtJTIwVW1haXIlMjBiYWlnIiwiaWF0IjoxNzI4MTUyNDg0fQ.qjmQU9mu_agtbYvHsyEnM2YJCbX3Kv1N74kJpGHEkE0" alt="Typing SVG" data-canonical-%E2%9C%A8S+the++++%E2%9C%A8;%E2%9C%+%26+++%E2%9C%A8;%E2%9C%A8%E2%9C%A8" style="width="200";">
 
 <h3 align="center">I'm a Frontend developer with a passion for creating seamless user experiences. Currently, I’m expanding my skills by diving into Next.js, aiming to build faster and more scalable web applications. Alongside web development, I also enjoy working with Blender for 3D modeling and design projects.</h3>
 
