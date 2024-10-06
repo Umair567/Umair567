@@ -34,3 +34,5 @@
 <p><a href="https://www.buymeacoffee.com/Umair"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Umair" /></a><a href="https://ko-fi.com/Umairbaig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Umairbaig" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair567&show_icons=true&locale=en&layout=compact" alt="umair567" /></p>
+
+![snake gif](https://github.com/Umair567/Umair567/blob/output/github-contribution-grid-snake.gif)
