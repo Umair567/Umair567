@@ -34,5 +34,5 @@
 <p><a href="https://www.buymeacoffee.com/Umair"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Umair" /></a><a href="https://ko-fi.com/Umairbaig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Umairbaig" /></a></p><br><br>
 
 
-
+<img width="325" align="center" src="https://camo.githubusercontent.com/2b4929ed70248790b0b365fbcc4ab358061d64352d90e4e479aac0c5dfbc55a2/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616c657370303726686964653d48544d4c266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426626f726465725f7261646975733d31302673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35266578636c7564655f7265706f3d6769746875622d726561646d652d7374617473" alt="top langs" data-canonical-src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" style="max-width: 100%;">
 ![snake gif](https://github.com/Umair567/Umair567/blob/output/ocean.gif)
