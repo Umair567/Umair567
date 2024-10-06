@@ -34,7 +34,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Umair"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Umair" /></a><a href="https://ko-fi.com/Umairbaig"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Umairbaig" /></a></p><br><br>
 
-<img width="390" src="https://camo.githubusercontent.com/462ce6b6b61b5d4d15e4adee0c5f7ff0fb8a0f7209a34ffc56ae544a49b0dd7a/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170693f757365726e616d653d73616c657370303726636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d72656163742672616e6b5f69636f6e3d67697468756226626f726465725f7261646975733d3130" alt="readme stats" data-canonical-src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&amp;count_private=true&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10" style="max-width: 100%;">
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair567&show_icons=true&locale=en&layout=compact" alt="umair567" /></p>
